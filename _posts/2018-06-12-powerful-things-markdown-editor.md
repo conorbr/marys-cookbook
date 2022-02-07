@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Mary's Moroccan Rice"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+categories: [ side_dish, moroccan ]
+image: assets/images/moroccan_rice.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
