@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mary's Moroccan Rice"
+title:  "Mary's Moroccan rice"
 author: sal
 categories: [ side_dish, moroccan ]
-image: 
+image: assets/images/moroccan-rice.jpg
 ---
 Mary Breen's moroccan rice is a dish found at every moroccan family gathering. From moroccan christmas to moroccan baptisms you're sure to find a cheeky
 bowl of Mary's moroccan rice on the table. Tastes like
