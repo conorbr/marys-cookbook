@@ -1,7 +1,7 @@
 # Site
-name: "Mary's Recipe Book"
-title: "Mary's Recipe Book"
-description: "All of the good ones"
+name: "Mary's Recipes"
+title: "Mary's Recipes"
+description: "Mary's Recipes | All of the good ones"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://conorbr.github.io/marys-cookbook'
@@ -10,6 +10,7 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+
 
 # Authors
 authors:
