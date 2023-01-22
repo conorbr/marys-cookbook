@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kevin's garlic steaks"
+title:  "Wolfies Pâté"
 author: sal
 categories: [ side_dish, moroccan ]
 image: assets/images/mary-placeholder.jpeg
